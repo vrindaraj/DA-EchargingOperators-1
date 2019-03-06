@@ -1,1 +1,1 @@
-# project
+ The E-Charging Operators (equivalent of today's petrol pump operators) need a prediction to ensure their customers (end-users) satisfaction and optimum utilization of the e-Charging stations. The operator may have fast or slow charging infrastructure with their own payment terms and timings. With the help of machine learning algorithms the operator can offer dynamic pricing at stipulated times and manage the peak demand accordingly.
