@@ -72,20 +72,6 @@ df = pd.read_csv("G:\project\PRoject final yr\data.csv", na_values = missing_val
 
 df.isnull()
 
-
-# In[39]:
-
-
-cnt=0
-for row in df:
-    try:
-        int(row)
-        df.loc[cnt]=np.nan
-    except ValueError:
-        pass
-    cnt+=1
-
-
 # ## To find the sum of null values in each column
 
 # In[40]:
