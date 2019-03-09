@@ -21,11 +21,11 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[2]:
 
 
-df = pd.read_csv("Documents/data.csv")
-df.head()
-df.info()
-df.describe()
-df.columns
+train = pd.read_csv("Documents/data.csv")
+train.head()
+train.info()
+train.describe()
+train.columns
 
 
 # ## Visualization of dataset
@@ -33,7 +33,7 @@ df.columns
 # In[3]:
 
 
-sns.pairplot(df)
+sns.pairplot(train)
 
 
 # ## Plot with respect to the dependent variable
@@ -41,20 +41,20 @@ sns.pairplot(df)
 # In[4]:
 
 
-sns.distplot(df['Charge Fee(in$)'])
+sns.distplot(train['Charge Fee(in$)'])
 
 
 # In[5]:
 
 
-df.corr()
+train.corr()
 
 
 # In[6]:
 
 
-X  = df.iloc[:,1:-1]
-Y =  df.iloc[:,11]
+X  = train.iloc[:,1:-1]
+Y =  train.iloc[:,11]
 X["Accumulated GHG (kg)"] = X["Accumulated GHG (kg)"].apply(lambda x: float(x.split()[0].replace(',', '')))
 # Y = Y.apply(lambda x: float(x.split("'")[0].replace(',', '')))
 eliminate_zero = Y.mean()
