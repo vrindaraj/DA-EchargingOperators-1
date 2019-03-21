@@ -5,10 +5,11 @@ TEAM MEMBERS:
                       1. ROSHINI.S (IV CSE B - 15CSA50)                                                                                      
                       2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
 
-TASK SPLITUP:
-        Module 1:
-            1.Data cleaning (Done by vrinda Raj VP)
-        Module 2:
+TASK SPLITUP:                                                                                                                          
+
+        Module 1:                                                                                                                        
+            1.Data cleaning (Done by vrinda Raj VP)                                                                                        
+        Module 2:                                                                                                                        
             1.K-means (Done by Roshini S)
         Module 3:
             1.Linear regression (Done by Roshini S)
