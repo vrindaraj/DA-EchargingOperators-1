@@ -2,8 +2,7 @@
 TEAM NUMBER : 26
 
 TEAM MEMBERS: 
-           1. ROSHSINI.S (IV CSE B - 15CSA50)                                                                                           
-           2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
+           1. ROSHSINI.S (IV CSE B - 15CSA50)                                                                                                      2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
 TASK SPLITUP:
         Module 1:
             1.Data cleaning (Done by vrinda Raj VP)
