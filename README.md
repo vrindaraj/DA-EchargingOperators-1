@@ -1,8 +1,8 @@
                            Big Data challenges for e-Mobility- infra operator	
 TEAM NUMBER : 26
 
-TEAM MEMBERS: 
-             1. ROSHINI.S (IV CSE B - 15CSA50)                                                                                      
+TEAM MEMBERS:                                                                                                                           
+                      1. ROSHINI.S (IV CSE B - 15CSA50)                                                                                      
                       2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
 
 TASK SPLITUP:
