@@ -3,6 +3,19 @@ TEAM NUMBER : 26
 TEAM MEMBERS: 
            1. ROSHSINI.S (IV CSE B - 15CSA50)
            2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
+TASK SPLITUP:
+        Module 1:
+              1.Data cleaning (Done by vrinda Raj VP)
+        Module 2:
+             1.K-means (Done by Roshini S)
+        Module 3:
+             1.Linear regression (Done by Roshini S)
+             2.Decision tree (Done by vrinda Raj VP)
+        Module 4:
+            1. prediction score and accuracy (Done by Roshini S)
+
+1. Module 1 and a part of module 3 is done by VRINDA RAJ V P
+2. Module 2,4 and a part of module 3 is done  by ROSHINI S
       
 PROBLEM STATEMENT:
 The E-Charging Operators (equivalent of today's petrol pump operators) need a prediction to ensure their customers (end-users) satisfaction and optimum utilization of the e-Charging stations. 
