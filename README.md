@@ -2,17 +2,16 @@
 TEAM NUMBER : 26
 
 TEAM MEMBERS: 
-           1. ROSHSINI.S (IV CSE B - 15CSA50)
+           1. ROSHSINI.S (IV CSE B - 15CSA50)                                                                                           
            2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
-           
 TASK SPLITUP:
         Module 1:
-              1.Data cleaning (Done by vrinda Raj VP)
+            1.Data cleaning (Done by vrinda Raj VP)
         Module 2:
-             1.K-means (Done by Roshini S)
+            1.K-means (Done by Roshini S)
         Module 3:
-             1.Linear regression (Done by Roshini S)
-             2.Decision tree (Done by vrinda Raj VP)
+            1.Linear regression (Done by Roshini S)
+            2.Decision tree (Done by vrinda Raj VP)
         Module 4:
             1. prediction score and accuracy (Done by Roshini S)
 
