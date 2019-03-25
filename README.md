@@ -27,7 +27,7 @@ PROBLEM STATEMENT:
 The pricing structure can also be based on the more or less charging time taken.
 
 REQUIREMENTS:
-Jupyter Note Book
+Web browser
 Data set
 
 Project Description
@@ -42,17 +42,10 @@ PROPOSED SYSTEM
 In this system, Using the Machine learning algorithms like K-means, Linear Regression and decision tree algorithms the pricing structure according to the demand and the infrastructure is predicted.
 It was done by finding the prediction score and accuracy for each algorithms and selecting an algorithm which has the high accuracy rate compared to the other two.
 
-ADVANTAGES OVER PROPOSED SYSTEM
-Easy to predict.
-Accuracy is obtained
-easy to fulfill a demand.
-
-DRAWBACKS OF EXISTING SYSTEM
-The number of electrical vehicles continues to increase but EV charging infrastructure remains underdeveloped and insufficient. 
-This is because of the some people who are afraid to build an E charging station as they think they may suffer loss due to improper pricing structure.
-Most of the operators does not have an idea how to place an pricing structure for fast and slow charging infrastructure.
-
 PROJECT DONE TILL NOW
 The first output will be prediction of all the algorithms and the visualization of K means clustering.
 After the prediction all the algorithm’s prediction score is considered and the accuracy value of each algorithm is found out.
 By comparing all the accuracy value, the algorithm which has the highest accuracy rate is considered as the best and suitable algorithm for the given problem statement and data set.
+
+REMAINING PART OF PROJECT
+1. Web page is not yet created fully for user interaction.
