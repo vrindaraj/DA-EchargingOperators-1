@@ -27,8 +27,11 @@ PROBLEM STATEMENT:
 The pricing structure can also be based on the more or less charging time taken.
 
 REQUIREMENTS:
-Web browser
-Data set
+1.Web browser
+2.Data set
+3.Python
+4.Django framework
+5.xampp
 
 Project Description
 In this project three types of machine learning algorithms are used for prediction.
