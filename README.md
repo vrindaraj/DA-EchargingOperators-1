@@ -7,15 +7,20 @@ TEAM MEMBERS:
 
 TASK SPLITUP:                                                                                                                          
 
-        Module 1:                                                                                                                        
-            1.Data cleaning (Done by vrinda Raj VP)                                                                                        
-        Module 2:                                                                                                                        
+        Module 1:                                                                                                                       
+            1.Data cleaning (Done by vrinda Raj VP)
+                In this the given dataset the data are cleaned properly to ensure that the dataset does not contain any illegal      charcters or null values.
+        Module 2:                                                                                                                       
             1.K-means (Done by Roshini S)
+                In this K-means clustering is obtained for the given dataset by using K-means algorithm.
         Module 3:
             1.Linear regression (Done by Roshini S)
+                In this Prediction and clustering is obtained for the given dataset by using Linear regression.
             2.Decision tree (Done by vrinda Raj VP)
+                In this Prediction is obtained for the given dataset by using Decision tree.
         Module 4:
-            1. prediction score and accuracy (Done by Roshini S)
+            1. Front end creation (Done by Roshini S)
+                Front end of this prediction is created by using Flask framework.
 
 1. Module 1 and a part of module 3 is done by VRINDA RAJ V P
 2. Module 2,4 and a part of module 3 is done  by ROSHINI S
