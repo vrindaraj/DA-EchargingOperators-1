@@ -1,27 +1,53 @@
-# Frontend
+                           Big Data challenges for e-Mobility- infra operator	
+TEAM NUMBER : 26
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+TEAM MEMBERS:                                                                                                                           
+                      1. ROSHINI.S (IV CSE B - 15CSA50)                                                                                      
+                      2. VRINDA RAJ.V.P (IV CSE B - 15CSA75)
 
-## Development server
+TASK SPLITUP:                                                                                                                          
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+        Module 1:                                                                                                                        
+            1.Data cleaning (Done by vrinda Raj VP)                                                                                        
+        Module 2:                                                                                                                        
+            1.K-means (Done by Roshini S)
+        Module 3:
+            1.Linear regression (Done by Roshini S)
+            2.Decision tree (Done by vrinda Raj VP)
+        Module 4:
+            1. prediction score and accuracy (Done by Roshini S)
 
-## Code scaffolding
+1. Module 1 and a part of module 3 is done by VRINDA RAJ V P
+2. Module 2,4 and a part of module 3 is done  by ROSHINI S
+      
+PROBLEM STATEMENT:
+The E-Charging Operators (equivalent of today's petrol pump operators) need a prediction to ensure their customers (end-users) satisfaction and optimum utilization of the e-Charging stations. 
+The operator may have fast or slow charging infrastructure with their own payment terms and timings.
+ With the help of machine learning algorithms the operator can offer dynamic pricing at stipulated times and manage the peak demand accordingly.
+The pricing structure can also be based on the more or less charging time taken.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+REQUIREMENTS:
+1.Web browser
+2.Data set
+3.Python
+4.Flask framework
+5.xampp
 
-## Build
+Project Description
+In this project three types of machine learning algorithms are used for prediction.
+They are 
+1.Kmeans 
+2.Linear regression
+3.Decision Tree
+This project helps the E charging operators to find the proper pricing structure of their E charging stations according to the fast or slow charging infrastructure.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+PROPOSED SYSTEM
+In this system, Using the Machine learning algorithms like K-means, Linear Regression and decision tree algorithms the pricing structure according to the demand and the infrastructure is predicted.
+It was done by finding the prediction score and accuracy for each algorithms and selecting an algorithm which has the high accuracy rate compared to the other two.
 
-## Running unit tests
+PROJECT DONE TILL NOW
+The first output will be prediction of all the algorithms and the visualization of K means clustering.
+After the prediction all the algorithm’s prediction score is considered and the accuracy value of each algorithm is found out.
+ Now, A web page is created for the users to find their required pricing structure.
+The project is completed 100%
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
