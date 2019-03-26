@@ -9,7 +9,7 @@ TASK SPLITUP:
 
         Module 1:                                                                                                                       
             1.Data cleaning (Done by vrinda Raj VP)
-                In this the given dataset the data are cleaned properly to ensure that the dataset does not contain any illegal      charcters or null values.
+                In this the given dataset the data are cleaned properly to ensure that the dataset does not contain any illegal charcters or null values.
         Module 2:                                                                                                                       
             1.K-means (Done by Roshini S)
                 In this K-means clustering is obtained for the given dataset by using K-means algorithm.
